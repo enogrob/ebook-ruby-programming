@@ -17,7 +17,7 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 Facets of Ruby
-[ ] Getting Started
+[x] Getting Started
 [ ] Ruby.new
 [ ] Classes, Objects, and Variables
 [ ] Containers, Blocks, and Iterators
