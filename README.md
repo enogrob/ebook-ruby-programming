@@ -18,7 +18,7 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 Facets of Ruby
 [x] Getting Started
-[ ] Ruby.new
+[x] Ruby.new
 [ ] Classes, Objects, and Variables
 [ ] Containers, Blocks, and Iterators
 [ ] Sharing Functionality: Inheritance, Modules, and Mixins
