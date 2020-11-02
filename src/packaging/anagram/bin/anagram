@@ -1,5 +1,0 @@
-#! /usr/local/rubybook/bin/ruby
-require 'anagram/runner'
-
-runner = Anagram::Runner.new(ARGV)
-runner.run

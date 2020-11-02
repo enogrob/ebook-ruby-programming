@@ -31,6 +31,7 @@ Facets of Ruby
 [ ] Fibers, Threads, and Processes
 [ ] Unit Testing
 [ ] When Trouble Strikes!
+
 Ruby in Its Setting
 [ ] Ruby and Its World
 [ ] Namespaces, Source Files, and Distribution
@@ -39,12 +40,35 @@ Ruby in Its Setting
 [ ] Documenting Ruby
 [ ] Ruby and the Web
 [ ] Ruby and Microsoft Windows
+
 Ruby Crystallized
 [ ] The Ruby Language
 [ ] Duck Typing
-[ ] Metaprogramming
+
+Metaprogramming
+[x] Objects and Classes
+[x] Singletons
+[ ] Inheritance and Visibility
+[ ] Modules and Mixins
+[ ] Metaprogramming Class-Level Macros
+[ ] Two Other Forms of Class Definition
+[ ] instance_eval and class_eval
+[ ] Hook Methods
+[ ] One Last Example
+[ ] Top-Level Execution Environment
+[ ] The Turtle Graphics Program
+
 [ ] Reflection, ObjectSpace, and Distributed Ruby
 [ ] Locking Ruby in the Safe
+[ ] Another Way to Access the Singleton Class
+[ ] Inheritance and Visibility
+[ ] Modules and Mixins
+[ ] extend
+[ ] Metaprogramming Class-Level Macros
+[ ] Class Macros and Modules
+[ ] Two Other Forms of Class Definition
+[ ] Creating Singleton Classes
+
 Ruby Library Reference
 [ ] Built-in Classes and Modules
 [ ] Standard Library
