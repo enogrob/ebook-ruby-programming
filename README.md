@@ -48,7 +48,7 @@ Ruby Crystallized
 Metaprogramming
 [x] Objects and Classes
 [x] Singletons
-[ ] Inheritance and Visibility
+[x] Inheritance and Visibility
 [ ] Modules and Mixins
 [ ] Metaprogramming Class-Level Macros
 [ ] Two Other Forms of Class Definition
