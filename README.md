@@ -49,7 +49,7 @@ Metaprogramming
 [x] Objects and Classes
 [x] Singletons
 [x] Inheritance and Visibility
-[ ] Modules and Mixins
+[x] Modules and Mixins
 [ ] Metaprogramming Class-Level Macros
 [ ] Two Other Forms of Class Definition
 [ ] instance_eval and class_eval
