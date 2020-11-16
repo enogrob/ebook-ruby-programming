@@ -50,7 +50,7 @@ Metaprogramming
 [x] Singletons
 [x] Inheritance and Visibility
 [x] Modules and Mixins
-[ ] Metaprogramming Class-Level Macros
+[x] Metaprogramming Class-Level Macros
 [ ] Two Other Forms of Class Definition
 [ ] instance_eval and class_eval
 [ ] Hook Methods
