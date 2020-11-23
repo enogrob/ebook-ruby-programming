@@ -51,7 +51,7 @@ Metaprogramming
 [x] Inheritance and Visibility
 [x] Modules and Mixins
 [x] Metaprogramming Class-Level Macros
-[ ] Two Other Forms of Class Definition
+[x] Two Other Forms of Class Definition
 [ ] instance_eval and class_eval
 [ ] Hook Methods
 [ ] One Last Example
