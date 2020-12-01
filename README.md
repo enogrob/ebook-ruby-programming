@@ -52,7 +52,7 @@ Metaprogramming
 [x] Modules and Mixins
 [x] Metaprogramming Class-Level Macros
 [x] Two Other Forms of Class Definition
-[ ] instance_eval and class_eval
+[x] instance_eval and class_eval
 [ ] Hook Methods
 [ ] One Last Example
 [ ] Top-Level Execution Environment
